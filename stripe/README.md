@@ -17,4 +17,3 @@ Common use cases include:
 * Metadata fields
 
 For pricing information, please see [https://www.betterreports.com/connectors/stripe](https://www.betterreports.com/connectors/stripe)
-

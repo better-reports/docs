@@ -6,15 +6,15 @@ Check out this quick video for an overview of how to filter by order. For a more
 
 Use the field _**Order**_ to match rows for a specific order.
 
-a\) Click on _**Add filter**_
+a) Click on _**Add filter**_
 
-b\) Click the field named _**Order**_
+b) Click the field named _**Order**_
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](<../.gitbook/assets/image (58).png>)
 
-You can also filter for _**Order id**_, _**Order number**_ or _**Order sequence number**_.
+You can also filter for _**Order id**_, _**Order number** _or _**Order sequence number**_.
 
-Want to filter for a range of orders? 
+Want to filter for a range of orders?&#x20;
 
 You can apply the filter on the numeric field _**Order number**_ which allows you to filter with one of these operators.
 
@@ -27,7 +27,6 @@ You can apply the filter on the numeric field _**Order number**_ which allows yo
 * Is unknown
 * Is known
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](<../.gitbook/assets/image (68).png>)
 
 See [Filtering by text field](../the-basics/filtering/text-fields.md).
-

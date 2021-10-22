@@ -12,7 +12,7 @@ Every piece of data is encrypted at rest and stored in Microsoft Azure data cent
 
 ### Connector data
 
-* Connectors import application data via secure tokens and channels \(the exact method depends on the API authentication mechanism used by the underlying app\).
+* Connectors import application data via secure tokens and channels (the exact method depends on the API authentication mechanism used by the underlying app).
 * When disconnecting an app, all the associated data is immediately and permanently deleted
 
 ### Access by support staff
@@ -21,6 +21,5 @@ PII data such as phone numbers, street addresses, email addresses, IP addresses 
 
 ### Contact Us
 
-Have a question or concern?  
+Have a question or concern?\
 Please email us at [security@betterreports.com](mailto:security@betterreports.com)
-

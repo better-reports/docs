@@ -13,4 +13,3 @@ You will be prompted to grant read-only access to your Help Scout account. Once 
 {% hint style="info" %}
 The initial import of your Help Scout data might take a few seconds to a few hours, depending on the amount of data. Regardless, this is a one-off operation and new data will be automatically ingested in real-time so that your reports are always up to date.
 {% endhint %}
-

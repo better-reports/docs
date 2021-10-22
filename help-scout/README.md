@@ -17,7 +17,6 @@ Common use cases include:
 
 For pricing information, please see [https://www.betterreports.com/connectors/helpscout](https://www.betterreports.com/connectors/helpscout)
 
-\*\*\*\*
+****
 
 ​‌
-

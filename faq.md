@@ -2,7 +2,7 @@
 
 ## Can you help me build a custom report?
 
-Of course! Please let us know more at [hello@betterreports.com](mailto:hello@betterreports.com)   
+Of course! Please let us know more at [hello@betterreports.com](mailto:hello@betterreports.com) \
 We'd be happy to build it for you. It's free 🙂.
 
 ## Can you add a connector for my favorite app?
@@ -20,8 +20,6 @@ Yes
 ## It is free to invite team members?
 
 Yes
-
-
 
 
 

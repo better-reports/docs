@@ -6,7 +6,7 @@ description: >-
 
 # Shopify
 
-## Data model 
+## Data model&#x20;
 
 * Orders
 * Order lines
@@ -15,8 +15,8 @@ description: >-
 * Products
 * Variants
 * Inventory levels
-* Gift cards \(Shopify Plus only\)
-* Users \(Shopify Plus only\)
+* Gift cards (Shopify Plus only)
+* Users (Shopify Plus only)
 * Shopify Payments
   * Payouts
   * Payout transactions
@@ -25,7 +25,7 @@ description: >-
 * Locations
 * Collections
 * Metafields
-* Tags \(orders, customers, products\)
+* Tags (orders, customers, products)
 * Order attributes
 * Line item properties
 
@@ -47,11 +47,10 @@ Billing for Shopify connections is charged directly on your Shopify store invoic
 * Track collected tax per location
 * Track sales per discount code
 * Track gift card sales and payments
-* Track pickup and delivery orders \(Zapiet integration\)
+* Track pickup and delivery orders (Zapiet integration)
 * Identify most / least profitable products
 * Search and filter by any field
 * Generate picking lists
 * Generate customer mailing lists based on purchase history
 * Schedule monthly transaction report for reconciliation
 * Schedule hourly KPI export to Google Drive for integration with online dashboard
-
