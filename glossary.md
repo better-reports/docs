@@ -10,7 +10,7 @@ An organization is an isolated space, with its own data connections, reports, te
 
 **Team member**
 
-When a user is invited to an organization, it becomes a member of that organization. Each member is either an _admin_ or a _member_._ _Admins have special rights, including the ability to manage settings, billing, connections and invite additional members.
+When a user is invited to an organization, it becomes a member of that organization. Each member is either an _admin_ or a _member_. __ Admins have special rights, including the ability to manage settings, billing, connections and invite additional members.
 
 **Data connection**
 

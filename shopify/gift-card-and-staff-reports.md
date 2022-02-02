@@ -27,31 +27,30 @@ If you operate physical stores (brick and mortar), you could for example show **
 
 ### Activating the Gift cards and/or Users APIs
 
-Shopify doesn't allow "public apps" to use the [Gift cards](https://shopify.dev/docs/admin-api/rest/reference/plus/giftcard) and [Users](https://shopify.dev/docs/admin-api/rest/reference/plus/user) API so you must follow these steps to create a "private app".
+Shopify doesn't allow "public apps" to use the [Gift cards](https://shopify.dev/docs/admin-api/rest/reference/plus/giftcard) and [Users](https://shopify.dev/docs/admin-api/rest/reference/plus/user) API and a custom app must be created for your specific store. Here's how we can set this up for you -
 
-a) Open [https://shopify.com/admin/apps/private/new](https://shopify.com/admin/apps/private/new)
-
-b) Input "Better Reports" for the _Private app name_
-
-c) Input "hello@betterreports.com" for the _Emergency developer email_
-
-d) Grant 'Read access' to _Gift cards_ and _Users_
+a) Email our friendly staff at [hello@betterreports.com](mailto:hello@betterreports.com). Simply state that you want to activate gift cards (or user reports)
 
 {% hint style="warning" %}
-If you can't find **Gift cards** or **Users** in the list of permissions, you may have to contact your Shopify Plus Success Manager to activate them.
+You may have to contact your Shopify Plus Success Manager to activate the **Users** **API** for your store.
 {% endhint %}
 
-e) Leave all other fields as is. It should look like this:
+b) We will create a custom app **specific for your store** requesting gift card (and users if needed) permissions and email you an install link for the custom app. The custom app must be installed within 7 days of generating the link.
 
-![](<../.gitbook/assets/image (48).png>)
+![Install screen of the custom app](<../.gitbook/assets/image (85).png>)
 
-![Grant 'Read access' to Gift cards and Users](<../.gitbook/assets/image (49).png>)
+c) Once you install the app on your store, you will be redirected to Better Reports app and the gift cards reports (and optionally users reports) would be enabled.\
 
-f) Press Save
 
-g) Copy the Example URL (click 1 in the screenshot below)
+![Confirmation message of gift card data being enabled.](<../.gitbook/assets/image (81).png>)
 
-![](<../.gitbook/assets/image (50).png>)
 
-h) Email our friendly staff at [hello@betterreports.com](mailto:shppa\_de1068913e7d1bbf99680195b1cf215b). Simply state that you want to activate gift cards (or user reports) and paste the Example URL. This URL contains the information we need to activate your Gift card and User reports.\
-That's it! You will hear from us shortly once your reports are ready.
+
+{% hint style="info" %}
+After the setup, there will be two apps with the name of Better Reports on your store.&#x20;
+
+The Better Reports Gift Cards/Users app will have a Custom tag and must remain installed for the Gift Card/Users sync to work.
+
+\
+![](<../.gitbook/assets/image (84).png>)
+{% endhint %}

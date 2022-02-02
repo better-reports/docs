@@ -7,7 +7,7 @@
 
 ![](<../.gitbook/assets/image (57).png>)
 
-**Non-profits: **Pricing for stores on NPO Lite or Full plan is $39.90/month.\
+**Non-profits:** Pricing for stores on NPO Lite or Full plan is $39.90/month.\
 
 
 ## Billing

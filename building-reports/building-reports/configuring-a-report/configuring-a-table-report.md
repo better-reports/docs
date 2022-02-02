@@ -1,6 +1,6 @@
 # Configuring a table report
 
-Use table reports to show data in a tabular format, with **dimension columns (1) **on the **left side** of the table and **measure columns** (2) on the **right side **of the table.
+Use table reports to show data in a tabular format, with **dimension columns (1)** on the **left side** of the table and **measure columns** (2) on the **right side** of the table.
 
 You can also assign a measure that determines the Color saturation of the row (3).\
 A linear interpolation is applied from the lowest value (white) to the highest value (dark green).

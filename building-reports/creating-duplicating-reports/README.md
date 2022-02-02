@@ -20,6 +20,6 @@ The latter approach is easier, but it requires having an existing report that is
 1. From the [Reports page](https://app.betterreports.com/reports), click the report you want to start from
 2. Press the _**Edit**_ button
 3. Tweak the report fields, filters, sorting, subtotals as desired
-4. In the menu, click _**Save as...** _and provide a name for your new report
+4. In the menu, click _**Save as...** _ and provide a name for your new report
 
 ![](<../../.gitbook/assets/image (70).png>)

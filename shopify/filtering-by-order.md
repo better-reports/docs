@@ -12,7 +12,7 @@ b) Click the field named _**Order**_
 
 ![](<../.gitbook/assets/image (58).png>)
 
-You can also filter for _**Order id**_, _**Order number** _or _**Order sequence number**_.
+You can also filter for _**Order id**_, _**Order number** _ or _**Order sequence number**_.
 
 Want to filter for a range of orders?&#x20;
 

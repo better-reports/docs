@@ -22,5 +22,5 @@ Let us know at [connectors@betterreports.com](mailto:connectors@betterreports.co
 
 ## Invite your team
 
-Invite team members to join your organization. You can invite unlimited members for free. Members may either be _admin _or _member_, depending on required permissions.\
+Invite team members to join your organization. You can invite unlimited members for free. Members may either be _admin_ or _member_, depending on required permissions.\
 You can also create additional _organizations_. Each organization is a completely separate space, with its own members and its own data connections. Using multiple organizations is appropriate if you collaborate with different teams and/or if you need to assign different data permissions for different projects.

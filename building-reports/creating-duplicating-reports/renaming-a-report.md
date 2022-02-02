@@ -3,7 +3,7 @@
 To rename a report:
 
 1. Open it from the [Reports page](https://app.betterreports.com/reports)
-2. Click the _**Edit**_** **button
+2. Click the _**Edit**_** ** button
 3. Open the more menu and click _**Rename...**_
 4. Input the new name for your report
 

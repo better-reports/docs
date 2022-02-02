@@ -1,16 +1,16 @@
 # Dimensions and measures
 
-What is the difference between a **dimension **and a **measure**?
+What is the difference between a **dimension** and a **measure**?
 
 If you think about a report, you might realize that there are two kinds of fields.\
-Some fields are used to **segment the data into various groups**.** **These are **dimensions**.\
-Other fields are used to **compute a value for each segmented group.** These are **measures **(also known as metrics).
+Some fields are used to **segment the data into various groups**. **** These are **dimensions**.\
+Other fields are used to **compute a value for each segmented group.** These are **measures** (also known as metrics).
 
 **Dimensions group (or segment or slice) the data.**
 
 **Measures compute a single value for each group.**
 
-Common dimensions include **dates **(to group rows by year, month, day, etc...) and **places** (to group rows by country, state, etc...). However, almost any data field can be used as a dimension, because it is very useful to slice the data in different ways.\
+Common dimensions include **dates** (to group rows by year, month, day, etc...) and **places** (to group rows by country, state, etc...). However, almost any data field can be used as a dimension, because it is very useful to slice the data in different ways.\
 In an e-commerce context for example, you might want to slice your sales based on customer type, channel, vendor, status, and dozens of other attributes. You can get very granular. For example, to compute _total sales by customer_, you could choose _customer id_ or _customer email_ as a dimension.
 
 Given that a measure computes a single value per group, measures must **compute an aggregated value** for the entire group (using common aggregation functions such as COUNT, SUM, AVG, MIN, MAX, etc...).\

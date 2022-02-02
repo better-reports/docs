@@ -3,7 +3,7 @@
 The staff username field is not available in the Shopify API, unless your store is on Shopify Plus (the API is restricted).
 
 {% hint style="info" %}
-If your store is on the _Shopify Plus _plan, you can skip this page and record your staff names automatically instead. See [Gift card and user reports](gift-card-and-staff-reports.md).
+If your store is on the _Shopify Plus_ plan, you can skip this page and record your staff names automatically instead. See [Gift card and user reports](gift-card-and-staff-reports.md).
 {% endhint %}
 
 \
@@ -21,11 +21,11 @@ c) A dialogue box shows up
 
 
 
-d) Open the _**this page **_link_. _ A new tab will open.
+d) Open the _**this page**_ link_._ A new tab will open.
 
 e) Copy and paste the contents of that page in the dialog box.
 
-f) Click** **_**Record user names**_
+f) Click ** **_**Record user names**_
 
 That's it!\
 The user name field should now correctly show your staff names.
