@@ -40,6 +40,6 @@ Better Reports places some limitations on scheduled runs:
 There are also hard limitations specific to Excel and Google Sheets:
 
 * Excel files have a limit of 1 million rows
-* Google Sheets have a limit of 5 million cells
+* Google Sheets have a limit of 10 million cells
 
 Should you need reports to run with more rows, we recommend reducing the frequency of your scheduled runs or adding filters to your report. If these limitations don't work for your needs, please reach out to us at [hello@betterreports.com](mailto:hello@betterreports.com) to discuss other options!
