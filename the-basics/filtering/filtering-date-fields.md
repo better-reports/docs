@@ -20,10 +20,14 @@ Alternatively, you can use the calendar to choose a specific start/end date. The
 ![Filter by a dynamic or fixed date range](<../../.gitbook/assets/image (13).png>)
 
 {% hint style="info" %}
-**Open your **[**organization settings**](https://app.betterreports.com/settings)** to tweak your preferred Week start/end day and timezone.**
+**Open your** [**organization settings**](https://app.betterreports.com/settings) **to tweak your preferred Week start/end day and timezone.**
 {% endhint %}
 
 ![Organization settings](<../../.gitbook/assets/image (25).png>)
+
+{% hint style="info" %}
+For **Shopify** merchants, the above Time zone setting isn't available because Better Reports automatically aligns to the time zone the store is in.
+{% endhint %}
 
 ## Filtering by date part
 
