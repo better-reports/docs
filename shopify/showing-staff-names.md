@@ -9,7 +9,7 @@ If your store is on the _Shopify Plus_ plan, you can skip this page and record y
 \
 As a workaround, you can record your staff names manually in Better Reports.
 
-a) Open [Monthly sales by POS user](https://app.betterreports.co/reports/report;id=333185519078235207?account=766488671762450086.betterreports.co\&connection=672640679920690203)
+a) Open [Monthly sales by POS user](https://app.betterreports.com/reports/report;id=333185519078235207?account=766488671762450086.betterreports.co\&connection=672640679920690203)
 
 b) Click _**Record Users**_
 
